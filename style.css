@@ -1,0 +1,11 @@
+body{
+    background-color: blue;
+    color: blue;
+    font-family: sans-serif;
+ margin: 0px;
+}
+header {border-bottom: solid 4px red;
+padding: 10px;
+font-size: 32px;
+color: white;
+}
